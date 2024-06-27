@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "350973159653",
+    "firebase_url": "https://donrenato-1699903940743-default-rtdb.firebaseio.com",
+    "project_id": "donrenato-1699903940743",
+    "storage_bucket": "donrenato-1699903940743.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350973159653:android:87e586736549e6dce2cc0c",
+        "android_client_info": {
+          "package_name": "com.ludeldeveloper.restaurantedonrenato"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350973159653-f1836j6mvtc6b2vmfqubhpb20ku71t26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChE19zUwGx4JicvmIQY_g-EIh2ELP9hmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350973159653-f1836j6mvtc6b2vmfqubhpb20ku71t26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

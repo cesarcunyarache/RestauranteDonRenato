@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "com.ludeldeveloper.restaurantedonrenato.app-merged_res-21:/drawable-xhdpi_default_image.png.flat",
+        "source": "com.ludeldeveloper.restaurantedonrenato.app-main-23:/drawable-xhdpi/default_image.png"
+    },
+    {
+        "merged": "com.ludeldeveloper.restaurantedonrenato.app-merged_res-21:/drawable-xhdpi_ic_add_grey.png.flat",
+        "source": "com.ludeldeveloper.restaurantedonrenato.app-main-23:/drawable-xhdpi/ic_add_grey.png"
+    },
+    {
+        "merged": "com.ludeldeveloper.restaurantedonrenato.app-merged_res-21:/drawable-xhdpi_app_icon.png.flat",
+        "source": "com.ludeldeveloper.restaurantedonrenato.app-main-23:/drawable-xhdpi/app_icon.png"
+    },
+    {
+        "merged": "com.ludeldeveloper.restaurantedonrenato.app-merged_res-21:/drawable-xhdpi_home.png.flat",
+        "source": "com.ludeldeveloper.restaurantedonrenato.app-main-23:/drawable-xhdpi/home.png"
+    },
+    {
+        "merged": "com.ludeldeveloper.restaurantedonrenato.app-merged_res-21:/layout_subir.xml.flat",
+        "source": "com.ludeldeveloper.restaurantedonrenato.app-main-23:/layout/subir.xml"
+    },
+    {
+        "merged": "com.ludeldeveloper.restaurantedonrenato.app-merged_res-21:/layout_menu.xml.flat",
+        "source": "com.ludeldeveloper.restaurantedonrenato.app-main-23:/layout/menu.xml"
+    },
+    {
+        "merged": "com.ludeldeveloper.restaurantedonrenato.app-merged_res-21:/drawable-xhdpi_settings.png.flat",
+        "source": "com.ludeldeveloper.restaurantedonrenato.app-main-23:/drawable-xhdpi/settings.png"
+    },
+    {
+        "merged": "com.ludeldeveloper.restaurantedonrenato.app-merged_res-21:/drawable-xhdpi_ic_chevron_left_black.png.flat",
+        "source": "com.ludeldeveloper.restaurantedonrenato.app-main-23:/drawable-xhdpi/ic_chevron_left_black.png"
+    },
+    {
+        "merged": "com.ludeldeveloper.restaurantedonrenato.app-merged_res-21:/drawable-xhdpi_ic_rotate_left_grey.png.flat",
+        "source": "com.ludeldeveloper.restaurantedonrenato.app-main-23:/drawable-xhdpi/ic_rotate_left_grey.png"
+    },
+    {
+        "merged": "com.ludeldeveloper.restaurantedonrenato.app-merged_res-21:/drawable-xhdpi_sopa.png.flat",
+        "source": "com.ludeldeveloper.restaurantedonrenato.app-main-23:/drawable-xhdpi/sopa.png"
+    },
+    {
+        "merged": "com.ludeldeveloper.restaurantedonrenato.app-merged_res-21:/layout_recetas.xml.flat",
+        "source": "com.ludeldeveloper.restaurantedonrenato.app-main-23:/layout/recetas.xml"
+    },
+    {
+        "merged": "com.ludeldeveloper.restaurantedonrenato.app-merged_res-21:/drawable-xhdpi_ic_favorite_outline_grey.png.flat",
+        "source": "com.ludeldeveloper.restaurantedonrenato.app-main-23:/drawable-xhdpi/ic_favorite_outline_grey.png"
+    },
+    {
+        "merged": "com.ludeldeveloper.restaurantedonrenato.app-merged_res-21:/drawable-xhdpi_ic_favorite_black.png.flat",
+        "source": "com.ludeldeveloper.restaurantedonrenato.app-main-23:/drawable-xhdpi/ic_favorite_black.png"
+    },
+    {
+        "merged": "com.ludeldeveloper.restaurantedonrenato.app-merged_res-21:/drawable-xhdpi_ic_border_color_black.png.flat",
+        "source": "com.ludeldeveloper.restaurantedonrenato.app-main-23:/drawable-xhdpi/ic_border_color_black.png"
+    },
+    {
+        "merged": "com.ludeldeveloper.restaurantedonrenato.app-merged_res-21:/drawable-xhdpi_ic_attach_file_black.png.flat",
+        "source": "com.ludeldeveloper.restaurantedonrenato.app-main-23:/drawable-xhdpi/ic_attach_file_black.png"
+    },
+    {
+        "merged": "com.ludeldeveloper.restaurantedonrenato.app-merged_res-21:/drawable-xhdpi_search.png.flat",
+        "source": "com.ludeldeveloper.restaurantedonrenato.app-main-23:/drawable-xhdpi/search.png"
+    },
+    {
+        "merged": "com.ludeldeveloper.restaurantedonrenato.app-merged_res-21:/drawable-xhdpi_logo.png.flat",
+        "source": "com.ludeldeveloper.restaurantedonrenato.app-main-23:/drawable-xhdpi/logo.png"
+    },
+    {
+        "merged": "com.ludeldeveloper.restaurantedonrenato.app-merged_res-21:/drawable-xhdpi_ic_grade_black.png.flat",
+        "source": "com.ludeldeveloper.restaurantedonrenato.app-main-23:/drawable-xhdpi/ic_grade_black.png"
+    },
+    {
+        "merged": "com.ludeldeveloper.restaurantedonrenato.app-merged_res-21:/drawable-xhdpi_love.png.flat",
+        "source": "com.ludeldeveloper.restaurantedonrenato.app-main-23:/drawable-xhdpi/love.png"
+    },
+    {
+        "merged": "com.ludeldeveloper.restaurantedonrenato.app-merged_res-21:/layout_receta.xml.flat",
+        "source": "com.ludeldeveloper.restaurantedonrenato.app-main-23:/layout/receta.xml"
+    },
+    {
+        "merged": "com.ludeldeveloper.restaurantedonrenato.app-merged_res-21:/layout_main.xml.flat",
+        "source": "com.ludeldeveloper.restaurantedonrenato.app-main-23:/layout/main.xml"
+    },
+    {
+        "merged": "com.ludeldeveloper.restaurantedonrenato.app-merged_res-21:/drawable-xhdpi_ic_delete_black.png.flat",
+        "source": "com.ludeldeveloper.restaurantedonrenato.app-main-23:/drawable-xhdpi/ic_delete_black.png"
+    },
+    {
+        "merged": "com.ludeldeveloper.restaurantedonrenato.app-merged_res-21:/layout_login.xml.flat",
+        "source": "com.ludeldeveloper.restaurantedonrenato.app-main-23:/layout/login.xml"
+    }
+]

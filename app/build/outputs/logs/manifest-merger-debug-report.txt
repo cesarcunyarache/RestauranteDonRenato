@@ -1,0 +1,634 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:2:1-87:12
+INJECTED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:2:1-87:12
+INJECTED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:2:1-87:12
+INJECTED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:2:1-87:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/35863dfcd2054774b984f6abbb41454e/transformed/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/e0ef1c966338965789351ee3dce09981/transformed/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd8d9eeb7a2e7a873de764058ee598e7/transformed/jetified-firebase-auth-23.0.0/AndroidManifest.xml:17:1-75:12
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/c88aaef54c4040c8f8d17e184f7e1921/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-storage:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/722ff21b2804bc23a3cd2b45059abac5/transformed/jetified-firebase-storage-21.0.0/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/275c7e75d2cc9315b9328e0cd71d2145/transformed/jetified-firebase-firestore-25.0.0/AndroidManifest.xml:2:1-26:12
+MERGED from [io.grpc:grpc-android:1.57.2] /Users/cesarcunyarache/.gradle/caches/transforms-3/9fa08876eaa702eed04985b62bee0053/transformed/jetified-grpc-android-1.57.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/7d7cf5e296e6ba598198325bb56bd709/transformed/jetified-firebase-appcheck-18.0.0/AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/0f9f2689c3090742c504f40984d58f2d/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/8b2b167ceb72d0706de1ff515edb65fc/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/74b3c4bcae1ad297cc60711dc85fb701/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:15:1-41:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/09c907799dfffeff5787f6189387d40b/transformed/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/9b147106d2e70a95135dc992cd574d6f/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/b54f6cfc8793b57860d67266b6ac04ac/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] /Users/cesarcunyarache/.gradle/caches/transforms-3/a717478d81f4885a8a9e4a01c3381f52/transformed/jetified-credentials-1.2.0-rc01/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/cesarcunyarache/.gradle/caches/transforms-3/fc602bcae9a1b40eeedd4f8a68a4e50b/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/54a9379192482871109a0bf57e4cf0da/transformed/jetified-play-services-auth-20.7.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /Users/cesarcunyarache/.gradle/caches/transforms-3/4a49da32b525613f63e65a4c6bcebfef/transformed/jetified-play-services-auth-api-phone-18.0.2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/63945413baf52f56f68b67d93e011441/transformed/jetified-recaptcha-18.4.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.play:integrity:1.2.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/96cb9beb23f943fb1e75c86ff6a4efa1/transformed/jetified-integrity-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/8944d9ed288d8f83bd5bd7fc28724263/transformed/jetified-firebase-appcheck-interop-17.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/cesarcunyarache/.gradle/caches/transforms-3/f5fbb516ece9beae24f49b560541d93a/transformed/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/eab1d7e9bc75b6a3efd23990fd3b66ac/transformed/jetified-play-services-fido-20.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/cesarcunyarache/.gradle/caches/transforms-3/05ff4934daed2086b0d0d6b34fb1e187/transformed/jetified-play-services-auth-base-18.0.4/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/998fbe6ed0cbcf2b0c6c0c26fb9c0d88/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/ab3d213fe9a519a62abffbca87938909/transformed/jetified-play-services-tasks-18.1.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bf37899bd2aa637eb3bf248bd4fe7e7f/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/8b135bbdb8b4662cfa83976fe8967957/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/2c7d8b8c5420620ffdb868f8c58d6689/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/9d0297d74b08b4f4fc6a6c176d828cb4/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/18b9783bad90e6c0627985e918f89c7c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/649791192460a271553ebe263795e8f1/transformed/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/f8975e84ccc24048abaaeea4b4525785/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:18.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/ce8ffaa4a0d06752c5152762a3ff2790/transformed/jetified-firebase-components-18.0.0/AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.browser:browser:1.4.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/c60a147069bed80588853974e68a089a/transformed/browser-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/33695c8a73fd22225f7de47353cb587e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/86c2907f15ac559b2e3c7c6be0b6979c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/41e0cbfede5e92996efcbf11e9da19db/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/528f077366021e912259bcbeab766b2a/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/d22d3563e50f3a70fb6e63ad9e97fc1e/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/2027565f61c4dd09e3a37e9fd4ca559f/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/397637dd41a2562d67d35d2def90813e/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/4b4a2688b4b573c5a3fceff199859899/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd12a5160d923da5b3e02a3ce377cf59/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/fc961ffe8bce975e19d7906fc2276564/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/61bd7f09e8a6b84ccc8e9aef876bfc2d/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/9ba2d2086988eba31feb5fe7419c4402/transformed/core-1.2.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/5d921e2a49df970296aa14c915d4673e/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/34f9d374a362518d955cc35800f5a84c/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/3d644d5536ab5b1d81dd4bd04a4c2982/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/77df8b44f84087aafd834db5a3f834a0/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/97d1cac05f9d2416b3b9e79bf7772430/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/c4bbe2560f615f80a71ca22d91947532/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/45ba3e22f9231fd67ef69057f228e219/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/7a11a15b9ff1bdb0553a268ad01c0fa8/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/2600943c5f9d7af71b3b4c8465ec1720/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/338df48f6bec73a31b99b769bb7a969d/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/0456c5b9479e806095af7274534babbe/transformed/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/9b00606559891fd8b1f88e3326c4784d/transformed/jetified-googleid-1.1.0/AndroidManifest.xml:2:1-7:12
+INJECTED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:2:1-87:12
+INJECTED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:2:1-87:12
+INJECTED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:2:1-87:12
+	package
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:4:2-51
+		INJECTED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:2:1-87:12
+		INJECTED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:2:1-87:12
+		INJECTED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:3:2-60
+uses-permission#android.permission.INTERNET
+ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:5:2-63
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd8d9eeb7a2e7a873de764058ee598e7/transformed/jetified-firebase-auth-23.0.0/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd8d9eeb7a2e7a873de764058ee598e7/transformed/jetified-firebase-auth-23.0.0/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/c88aaef54c4040c8f8d17e184f7e1921/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/c88aaef54c4040c8f8d17e184f7e1921/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-storage:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/722ff21b2804bc23a3cd2b45059abac5/transformed/jetified-firebase-storage-21.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/722ff21b2804bc23a3cd2b45059abac5/transformed/jetified-firebase-storage-21.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/275c7e75d2cc9315b9328e0cd71d2145/transformed/jetified-firebase-firestore-25.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/275c7e75d2cc9315b9328e0cd71d2145/transformed/jetified-firebase-firestore-25.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/63945413baf52f56f68b67d93e011441/transformed/jetified-recaptcha-18.4.0/AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/63945413baf52f56f68b67d93e011441/transformed/jetified-recaptcha-18.4.0/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:5:19-61
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:6:2-75
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd8d9eeb7a2e7a873de764058ee598e7/transformed/jetified-firebase-auth-23.0.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd8d9eeb7a2e7a873de764058ee598e7/transformed/jetified-firebase-auth-23.0.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/c88aaef54c4040c8f8d17e184f7e1921/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/c88aaef54c4040c8f8d17e184f7e1921/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-storage:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/722ff21b2804bc23a3cd2b45059abac5/transformed/jetified-firebase-storage-21.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/722ff21b2804bc23a3cd2b45059abac5/transformed/jetified-firebase-storage-21.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/275c7e75d2cc9315b9328e0cd71d2145/transformed/jetified-firebase-firestore-25.0.0/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/275c7e75d2cc9315b9328e0cd71d2145/transformed/jetified-firebase-firestore-25.0.0/AndroidManifest.xml:10:5-79
+MERGED from [io.grpc:grpc-android:1.57.2] /Users/cesarcunyarache/.gradle/caches/transforms-3/9fa08876eaa702eed04985b62bee0053/transformed/jetified-grpc-android-1.57.2/AndroidManifest.xml:7:5-79
+MERGED from [io.grpc:grpc-android:1.57.2] /Users/cesarcunyarache/.gradle/caches/transforms-3/9fa08876eaa702eed04985b62bee0053/transformed/jetified-grpc-android-1.57.2/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/63945413baf52f56f68b67d93e011441/transformed/jetified-recaptcha-18.4.0/AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/63945413baf52f56f68b67d93e011441/transformed/jetified-recaptcha-18.4.0/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:6:19-73
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:7:2-76
+	android:name
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:7:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:8:2-77
+	android:name
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:8:19-75
+application
+ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:9:2-86:16
+MERGED from [com.google.android.material:material:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/35863dfcd2054774b984f6abbb41454e/transformed/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/35863dfcd2054774b984f6abbb41454e/transformed/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd8d9eeb7a2e7a873de764058ee598e7/transformed/jetified-firebase-auth-23.0.0/AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd8d9eeb7a2e7a873de764058ee598e7/transformed/jetified-firebase-auth-23.0.0/AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/c88aaef54c4040c8f8d17e184f7e1921/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/c88aaef54c4040c8f8d17e184f7e1921/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-storage:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/722ff21b2804bc23a3cd2b45059abac5/transformed/jetified-firebase-storage-21.0.0/AndroidManifest.xml:26:5-37:19
+MERGED from [com.google.firebase:firebase-storage:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/722ff21b2804bc23a3cd2b45059abac5/transformed/jetified-firebase-storage-21.0.0/AndroidManifest.xml:26:5-37:19
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/275c7e75d2cc9315b9328e0cd71d2145/transformed/jetified-firebase-firestore-25.0.0/AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/275c7e75d2cc9315b9328e0cd71d2145/transformed/jetified-firebase-firestore-25.0.0/AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/7d7cf5e296e6ba598198325bb56bd709/transformed/jetified-firebase-appcheck-18.0.0/AndroidManifest.xml:21:5-32:19
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/7d7cf5e296e6ba598198325bb56bd709/transformed/jetified-firebase-appcheck-18.0.0/AndroidManifest.xml:21:5-32:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/0f9f2689c3090742c504f40984d58f2d/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/0f9f2689c3090742c504f40984d58f2d/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/8b2b167ceb72d0706de1ff515edb65fc/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/8b2b167ceb72d0706de1ff515edb65fc/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/74b3c4bcae1ad297cc60711dc85fb701/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/74b3c4bcae1ad297cc60711dc85fb701/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:22:5-39:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/cesarcunyarache/.gradle/caches/transforms-3/fc602bcae9a1b40eeedd4f8a68a4e50b/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:23:5-42:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/cesarcunyarache/.gradle/caches/transforms-3/fc602bcae9a1b40eeedd4f8a68a4e50b/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:23:5-42:19
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/54a9379192482871109a0bf57e4cf0da/transformed/jetified-play-services-auth-20.7.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/54a9379192482871109a0bf57e4cf0da/transformed/jetified-play-services-auth-20.7.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.play:integrity:1.2.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/96cb9beb23f943fb1e75c86ff6a4efa1/transformed/jetified-integrity-1.2.0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.2.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/96cb9beb23f943fb1e75c86ff6a4efa1/transformed/jetified-integrity-1.2.0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/8944d9ed288d8f83bd5bd7fc28724263/transformed/jetified-firebase-appcheck-interop-17.1.0/AndroidManifest.xml:21:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/8944d9ed288d8f83bd5bd7fc28724263/transformed/jetified-firebase-appcheck-interop-17.1.0/AndroidManifest.xml:21:5-20
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/eab1d7e9bc75b6a3efd23990fd3b66ac/transformed/jetified-play-services-fido-20.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/eab1d7e9bc75b6a3efd23990fd3b66ac/transformed/jetified-play-services-fido-20.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/998fbe6ed0cbcf2b0c6c0c26fb9c0d88/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/998fbe6ed0cbcf2b0c6c0c26fb9c0d88/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/ab3d213fe9a519a62abffbca87938909/transformed/jetified-play-services-tasks-18.1.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/ab3d213fe9a519a62abffbca87938909/transformed/jetified-play-services-tasks-18.1.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bf37899bd2aa637eb3bf248bd4fe7e7f/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bf37899bd2aa637eb3bf248bd4fe7e7f/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.2.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/9ba2d2086988eba31feb5fe7419c4402/transformed/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/9ba2d2086988eba31feb5fe7419c4402/transformed/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/5d921e2a49df970296aa14c915d4673e/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/5d921e2a49df970296aa14c915d4673e/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/9ba2d2086988eba31feb5fe7419c4402/transformed/core-1.2.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:11:3-41
+	android:largeHeap
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:13:3-27
+	android:icon
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:12:3-36
+	android:allowBackup
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:10:3-29
+	android:theme
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:15:3-34
+	android:usesCleartextTraffic
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:14:3-38
+activity#com.ludeldeveloper.restaurantedonrenato.MainActivity
+ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:16:3-29:14
+	android:screenOrientation
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:23:4-40
+	android:hardwareAccelerated
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:19:4-38
+	android:windowSoftInputMode
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:24:4-45
+	android:exported
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:21:4-27
+	android:supportsPictureInPicture
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:20:4-43
+	android:configChanges
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:18:4-97
+	android:theme
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:22:4-46
+	android:name
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:17:4-32
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:25:4-28:20
+action#android.intent.action.MAIN
+ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:26:5-56
+	android:name
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:26:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:27:5-64
+	android:name
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:27:15-62
+activity#com.ludeldeveloper.restaurantedonrenato.MenuActivity
+ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:30:3-37:47
+	android:screenOrientation
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:36:4-40
+	android:hardwareAccelerated
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:33:4-38
+	android:windowSoftInputMode
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:37:4-45
+	android:supportsPictureInPicture
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:34:4-43
+	android:configChanges
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:32:4-97
+	android:theme
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:35:4-46
+	android:name
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:31:4-32
+activity#com.ludeldeveloper.restaurantedonrenato.LoginActivity
+ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:38:3-45:47
+	android:screenOrientation
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:44:4-40
+	android:hardwareAccelerated
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:41:4-38
+	android:windowSoftInputMode
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:45:4-45
+	android:supportsPictureInPicture
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:42:4-43
+	android:configChanges
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:40:4-97
+	android:theme
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:43:4-46
+	android:name
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:39:4-33
+activity#com.ludeldeveloper.restaurantedonrenato.SubirActivity
+ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:46:3-53:47
+	android:screenOrientation
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:52:4-40
+	android:hardwareAccelerated
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:49:4-38
+	android:windowSoftInputMode
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:53:4-45
+	android:supportsPictureInPicture
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:50:4-43
+	android:configChanges
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:48:4-97
+	android:theme
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:51:4-46
+	android:name
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:47:4-33
+activity#com.ludeldeveloper.restaurantedonrenato.RecetaActivity
+ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:54:3-61:47
+	android:screenOrientation
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:60:4-40
+	android:hardwareAccelerated
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:57:4-38
+	android:windowSoftInputMode
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:61:4-45
+	android:supportsPictureInPicture
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:58:4-43
+	android:configChanges
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:56:4-97
+	android:theme
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:59:4-46
+	android:name
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:55:4-34
+meta-data#com.google.android.gms.version
+ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:62:3-64:59
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bf37899bd2aa637eb3bf248bd4fe7e7f/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bf37899bd2aa637eb3bf248bd4fe7e7f/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:64:4-57
+	android:name
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:63:4-49
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:65:3-69:29
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/74b3c4bcae1ad297cc60711dc85fb701/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:23:9-28:39
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/74b3c4bcae1ad297cc60711dc85fb701/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:67:4-86
+	android:exported
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:68:4-28
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/74b3c4bcae1ad297cc60711dc85fb701/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:69:4-27
+	android:name
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:66:4-68
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:70:3-82:13
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd8d9eeb7a2e7a873de764058ee598e7/transformed/jetified-firebase-auth-23.0.0/AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd8d9eeb7a2e7a873de764058ee598e7/transformed/jetified-firebase-auth-23.0.0/AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/c88aaef54c4040c8f8d17e184f7e1921/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/c88aaef54c4040c8f8d17e184f7e1921/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-storage:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/722ff21b2804bc23a3cd2b45059abac5/transformed/jetified-firebase-storage-21.0.0/AndroidManifest.xml:27:9-36:19
+MERGED from [com.google.firebase:firebase-storage:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/722ff21b2804bc23a3cd2b45059abac5/transformed/jetified-firebase-storage-21.0.0/AndroidManifest.xml:27:9-36:19
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/275c7e75d2cc9315b9328e0cd71d2145/transformed/jetified-firebase-firestore-25.0.0/AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/275c7e75d2cc9315b9328e0cd71d2145/transformed/jetified-firebase-firestore-25.0.0/AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/7d7cf5e296e6ba598198325bb56bd709/transformed/jetified-firebase-appcheck-18.0.0/AndroidManifest.xml:22:9-31:19
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/7d7cf5e296e6ba598198325bb56bd709/transformed/jetified-firebase-appcheck-18.0.0/AndroidManifest.xml:22:9-31:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/0f9f2689c3090742c504f40984d58f2d/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/0f9f2689c3090742c504f40984d58f2d/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/74b3c4bcae1ad297cc60711dc85fb701/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/74b3c4bcae1ad297cc60711dc85fb701/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:72:4-28
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/74b3c4bcae1ad297cc60711dc85fb701/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/74b3c4bcae1ad297cc60711dc85fb701/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:71:4-75
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:73:4-75:72
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd8d9eeb7a2e7a873de764058ee598e7/transformed/jetified-firebase-auth-23.0.0/AndroidManifest.xml:69:13-71:85
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd8d9eeb7a2e7a873de764058ee598e7/transformed/jetified-firebase-auth-23.0.0/AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:75:5-70
+	android:name
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:74:5-97
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:76:4-78:72
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/c88aaef54c4040c8f8d17e184f7e1921/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:32:13-34:85
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/c88aaef54c4040c8f8d17e184f7e1921/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:78:5-70
+	android:name
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:77:5-97
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:79:4-81:72
+MERGED from [com.google.firebase:firebase-storage:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/722ff21b2804bc23a3cd2b45059abac5/transformed/jetified-firebase-storage-21.0.0/AndroidManifest.xml:33:13-35:85
+MERGED from [com.google.firebase:firebase-storage:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/722ff21b2804bc23a3cd2b45059abac5/transformed/jetified-firebase-storage-21.0.0/AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:81:5-70
+	android:name
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:80:5-95
+uses-library#org.apache.http.legacy
+ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:83:3-85:30
+	android:required
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:85:4-28
+	android:name
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml:84:4-41
+uses-sdk
+INJECTED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml
+INJECTED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/35863dfcd2054774b984f6abbb41454e/transformed/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/35863dfcd2054774b984f6abbb41454e/transformed/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/e0ef1c966338965789351ee3dce09981/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/e0ef1c966338965789351ee3dce09981/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd8d9eeb7a2e7a873de764058ee598e7/transformed/jetified-firebase-auth-23.0.0/AndroidManifest.xml:21:5-23:151
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd8d9eeb7a2e7a873de764058ee598e7/transformed/jetified-firebase-auth-23.0.0/AndroidManifest.xml:21:5-23:151
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/c88aaef54c4040c8f8d17e184f7e1921/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/c88aaef54c4040c8f8d17e184f7e1921/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-storage:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/722ff21b2804bc23a3cd2b45059abac5/transformed/jetified-firebase-storage-21.0.0/AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-storage:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/722ff21b2804bc23a3cd2b45059abac5/transformed/jetified-firebase-storage-21.0.0/AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/275c7e75d2cc9315b9328e0cd71d2145/transformed/jetified-firebase-firestore-25.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/275c7e75d2cc9315b9328e0cd71d2145/transformed/jetified-firebase-firestore-25.0.0/AndroidManifest.xml:6:5-44
+MERGED from [io.grpc:grpc-android:1.57.2] /Users/cesarcunyarache/.gradle/caches/transforms-3/9fa08876eaa702eed04985b62bee0053/transformed/jetified-grpc-android-1.57.2/AndroidManifest.xml:5:5-44
+MERGED from [io.grpc:grpc-android:1.57.2] /Users/cesarcunyarache/.gradle/caches/transforms-3/9fa08876eaa702eed04985b62bee0053/transformed/jetified-grpc-android-1.57.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/7d7cf5e296e6ba598198325bb56bd709/transformed/jetified-firebase-appcheck-18.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/7d7cf5e296e6ba598198325bb56bd709/transformed/jetified-firebase-appcheck-18.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/0f9f2689c3090742c504f40984d58f2d/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/0f9f2689c3090742c504f40984d58f2d/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/8b2b167ceb72d0706de1ff515edb65fc/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/8b2b167ceb72d0706de1ff515edb65fc/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/74b3c4bcae1ad297cc60711dc85fb701/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/74b3c4bcae1ad297cc60711dc85fb701/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:19:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/09c907799dfffeff5787f6189387d40b/transformed/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/09c907799dfffeff5787f6189387d40b/transformed/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/9b147106d2e70a95135dc992cd574d6f/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/9b147106d2e70a95135dc992cd574d6f/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/b54f6cfc8793b57860d67266b6ac04ac/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/b54f6cfc8793b57860d67266b6ac04ac/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] /Users/cesarcunyarache/.gradle/caches/transforms-3/a717478d81f4885a8a9e4a01c3381f52/transformed/jetified-credentials-1.2.0-rc01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] /Users/cesarcunyarache/.gradle/caches/transforms-3/a717478d81f4885a8a9e4a01c3381f52/transformed/jetified-credentials-1.2.0-rc01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/cesarcunyarache/.gradle/caches/transforms-3/fc602bcae9a1b40eeedd4f8a68a4e50b/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:21:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/cesarcunyarache/.gradle/caches/transforms-3/fc602bcae9a1b40eeedd4f8a68a4e50b/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/54a9379192482871109a0bf57e4cf0da/transformed/jetified-play-services-auth-20.7.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/54a9379192482871109a0bf57e4cf0da/transformed/jetified-play-services-auth-20.7.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /Users/cesarcunyarache/.gradle/caches/transforms-3/4a49da32b525613f63e65a4c6bcebfef/transformed/jetified-play-services-auth-api-phone-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /Users/cesarcunyarache/.gradle/caches/transforms-3/4a49da32b525613f63e65a4c6bcebfef/transformed/jetified-play-services-auth-api-phone-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/63945413baf52f56f68b67d93e011441/transformed/jetified-recaptcha-18.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/63945413baf52f56f68b67d93e011441/transformed/jetified-recaptcha-18.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:integrity:1.2.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/96cb9beb23f943fb1e75c86ff6a4efa1/transformed/jetified-integrity-1.2.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.2.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/96cb9beb23f943fb1e75c86ff6a4efa1/transformed/jetified-integrity-1.2.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/8944d9ed288d8f83bd5bd7fc28724263/transformed/jetified-firebase-appcheck-interop-17.1.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/8944d9ed288d8f83bd5bd7fc28724263/transformed/jetified-firebase-appcheck-interop-17.1.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/cesarcunyarache/.gradle/caches/transforms-3/f5fbb516ece9beae24f49b560541d93a/transformed/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/cesarcunyarache/.gradle/caches/transforms-3/f5fbb516ece9beae24f49b560541d93a/transformed/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/eab1d7e9bc75b6a3efd23990fd3b66ac/transformed/jetified-play-services-fido-20.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/eab1d7e9bc75b6a3efd23990fd3b66ac/transformed/jetified-play-services-fido-20.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/cesarcunyarache/.gradle/caches/transforms-3/05ff4934daed2086b0d0d6b34fb1e187/transformed/jetified-play-services-auth-base-18.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/cesarcunyarache/.gradle/caches/transforms-3/05ff4934daed2086b0d0d6b34fb1e187/transformed/jetified-play-services-auth-base-18.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/998fbe6ed0cbcf2b0c6c0c26fb9c0d88/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/998fbe6ed0cbcf2b0c6c0c26fb9c0d88/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/ab3d213fe9a519a62abffbca87938909/transformed/jetified-play-services-tasks-18.1.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/ab3d213fe9a519a62abffbca87938909/transformed/jetified-play-services-tasks-18.1.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bf37899bd2aa637eb3bf248bd4fe7e7f/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bf37899bd2aa637eb3bf248bd4fe7e7f/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/8b135bbdb8b4662cfa83976fe8967957/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/8b135bbdb8b4662cfa83976fe8967957/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/2c7d8b8c5420620ffdb868f8c58d6689/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/2c7d8b8c5420620ffdb868f8c58d6689/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/9d0297d74b08b4f4fc6a6c176d828cb4/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/9d0297d74b08b4f4fc6a6c176d828cb4/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/18b9783bad90e6c0627985e918f89c7c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/18b9783bad90e6c0627985e918f89c7c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/649791192460a271553ebe263795e8f1/transformed/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/649791192460a271553ebe263795e8f1/transformed/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/f8975e84ccc24048abaaeea4b4525785/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/f8975e84ccc24048abaaeea4b4525785/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/ce8ffaa4a0d06752c5152762a3ff2790/transformed/jetified-firebase-components-18.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/ce8ffaa4a0d06752c5152762a3ff2790/transformed/jetified-firebase-components-18.0.0/AndroidManifest.xml:18:5-44
+MERGED from [androidx.browser:browser:1.4.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/c60a147069bed80588853974e68a089a/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/c60a147069bed80588853974e68a089a/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/33695c8a73fd22225f7de47353cb587e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/33695c8a73fd22225f7de47353cb587e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/86c2907f15ac559b2e3c7c6be0b6979c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/86c2907f15ac559b2e3c7c6be0b6979c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/41e0cbfede5e92996efcbf11e9da19db/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/41e0cbfede5e92996efcbf11e9da19db/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/528f077366021e912259bcbeab766b2a/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/528f077366021e912259bcbeab766b2a/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/d22d3563e50f3a70fb6e63ad9e97fc1e/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/d22d3563e50f3a70fb6e63ad9e97fc1e/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/2027565f61c4dd09e3a37e9fd4ca559f/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/2027565f61c4dd09e3a37e9fd4ca559f/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/397637dd41a2562d67d35d2def90813e/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/397637dd41a2562d67d35d2def90813e/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/4b4a2688b4b573c5a3fceff199859899/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/4b4a2688b4b573c5a3fceff199859899/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd12a5160d923da5b3e02a3ce377cf59/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd12a5160d923da5b3e02a3ce377cf59/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/fc961ffe8bce975e19d7906fc2276564/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/fc961ffe8bce975e19d7906fc2276564/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/61bd7f09e8a6b84ccc8e9aef876bfc2d/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/61bd7f09e8a6b84ccc8e9aef876bfc2d/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/9ba2d2086988eba31feb5fe7419c4402/transformed/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/9ba2d2086988eba31feb5fe7419c4402/transformed/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/5d921e2a49df970296aa14c915d4673e/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/5d921e2a49df970296aa14c915d4673e/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/34f9d374a362518d955cc35800f5a84c/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/34f9d374a362518d955cc35800f5a84c/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/3d644d5536ab5b1d81dd4bd04a4c2982/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/3d644d5536ab5b1d81dd4bd04a4c2982/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/77df8b44f84087aafd834db5a3f834a0/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/77df8b44f84087aafd834db5a3f834a0/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/97d1cac05f9d2416b3b9e79bf7772430/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/97d1cac05f9d2416b3b9e79bf7772430/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/c4bbe2560f615f80a71ca22d91947532/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/c4bbe2560f615f80a71ca22d91947532/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/45ba3e22f9231fd67ef69057f228e219/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/45ba3e22f9231fd67ef69057f228e219/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/7a11a15b9ff1bdb0553a268ad01c0fa8/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/7a11a15b9ff1bdb0553a268ad01c0fa8/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/2600943c5f9d7af71b3b4c8465ec1720/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/2600943c5f9d7af71b3b4c8465ec1720/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/338df48f6bec73a31b99b769bb7a969d/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/338df48f6bec73a31b99b769bb7a969d/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/0456c5b9479e806095af7274534babbe/transformed/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/0456c5b9479e806095af7274534babbe/transformed/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/9b00606559891fd8b1f88e3326c4784d/transformed/jetified-googleid-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/9b00606559891fd8b1f88e3326c4784d/transformed/jetified-googleid-1.1.0/AndroidManifest.xml:5:5-44
+INJECTED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml
+INJECTED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd8d9eeb7a2e7a873de764058ee598e7/transformed/jetified-firebase-auth-23.0.0/AndroidManifest.xml:23:9-148
+	android:targetSdkVersion
+		INJECTED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cesarcunyarache/Downloads/RestauranteDonRenato/app/src/main/AndroidManifest.xml
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd8d9eeb7a2e7a873de764058ee598e7/transformed/jetified-firebase-auth-23.0.0/AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd8d9eeb7a2e7a873de764058ee598e7/transformed/jetified-firebase-auth-23.0.0/AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd8d9eeb7a2e7a873de764058ee598e7/transformed/jetified-firebase-auth-23.0.0/AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd8d9eeb7a2e7a873de764058ee598e7/transformed/jetified-firebase-auth-23.0.0/AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd8d9eeb7a2e7a873de764058ee598e7/transformed/jetified-firebase-auth-23.0.0/AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd8d9eeb7a2e7a873de764058ee598e7/transformed/jetified-firebase-auth-23.0.0/AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd8d9eeb7a2e7a873de764058ee598e7/transformed/jetified-firebase-auth-23.0.0/AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd8d9eeb7a2e7a873de764058ee598e7/transformed/jetified-firebase-auth-23.0.0/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd8d9eeb7a2e7a873de764058ee598e7/transformed/jetified-firebase-auth-23.0.0/AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd8d9eeb7a2e7a873de764058ee598e7/transformed/jetified-firebase-auth-23.0.0/AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd8d9eeb7a2e7a873de764058ee598e7/transformed/jetified-firebase-auth-23.0.0/AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd8d9eeb7a2e7a873de764058ee598e7/transformed/jetified-firebase-auth-23.0.0/AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd8d9eeb7a2e7a873de764058ee598e7/transformed/jetified-firebase-auth-23.0.0/AndroidManifest.xml:39:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd8d9eeb7a2e7a873de764058ee598e7/transformed/jetified-firebase-auth-23.0.0/AndroidManifest.xml:41:17-44:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd8d9eeb7a2e7a873de764058ee598e7/transformed/jetified-firebase-auth-23.0.0/AndroidManifest.xml:43:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd8d9eeb7a2e7a873de764058ee598e7/transformed/jetified-firebase-auth-23.0.0/AndroidManifest.xml:42:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd8d9eeb7a2e7a873de764058ee598e7/transformed/jetified-firebase-auth-23.0.0/AndroidManifest.xml:44:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd8d9eeb7a2e7a873de764058ee598e7/transformed/jetified-firebase-auth-23.0.0/AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd8d9eeb7a2e7a873de764058ee598e7/transformed/jetified-firebase-auth-23.0.0/AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd8d9eeb7a2e7a873de764058ee598e7/transformed/jetified-firebase-auth-23.0.0/AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd8d9eeb7a2e7a873de764058ee598e7/transformed/jetified-firebase-auth-23.0.0/AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd8d9eeb7a2e7a873de764058ee598e7/transformed/jetified-firebase-auth-23.0.0/AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd8d9eeb7a2e7a873de764058ee598e7/transformed/jetified-firebase-auth-23.0.0/AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/bd8d9eeb7a2e7a873de764058ee598e7/transformed/jetified-firebase-auth-23.0.0/AndroidManifest.xml:53:13-63:29
+meta-data#com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar
+ADDED from [com.google.firebase:firebase-database:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/c88aaef54c4040c8f8d17e184f7e1921/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:29:13-31:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/c88aaef54c4040c8f8d17e184f7e1921/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:31:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/c88aaef54c4040c8f8d17e184f7e1921/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:30:17-120
+meta-data#com.google.firebase.components:com.google.firebase.storage.FirebaseStorageKtxRegistrar
+ADDED from [com.google.firebase:firebase-storage:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/722ff21b2804bc23a3cd2b45059abac5/transformed/jetified-firebase-storage-21.0.0/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/722ff21b2804bc23a3cd2b45059abac5/transformed/jetified-firebase-storage-21.0.0/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/722ff21b2804bc23a3cd2b45059abac5/transformed/jetified-firebase-storage-21.0.0/AndroidManifest.xml:31:17-118
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar
+ADDED from [com.google.firebase:firebase-firestore:25.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/275c7e75d2cc9315b9328e0cd71d2145/transformed/jetified-firebase-firestore-25.0.0/AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:25.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/275c7e75d2cc9315b9328e0cd71d2145/transformed/jetified-firebase-firestore-25.0.0/AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:25.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/275c7e75d2cc9315b9328e0cd71d2145/transformed/jetified-firebase-firestore-25.0.0/AndroidManifest.xml:18:17-122
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:25.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/275c7e75d2cc9315b9328e0cd71d2145/transformed/jetified-firebase-firestore-25.0.0/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:25.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/275c7e75d2cc9315b9328e0cd71d2145/transformed/jetified-firebase-firestore-25.0.0/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:25.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/275c7e75d2cc9315b9328e0cd71d2145/transformed/jetified-firebase-firestore-25.0.0/AndroidManifest.xml:21:17-111
+meta-data#com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckKtxRegistrar
+ADDED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/7d7cf5e296e6ba598198325bb56bd709/transformed/jetified-firebase-appcheck-18.0.0/AndroidManifest.xml:25:13-27:85
+	android:value
+		ADDED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/7d7cf5e296e6ba598198325bb56bd709/transformed/jetified-firebase-appcheck-18.0.0/AndroidManifest.xml:27:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/7d7cf5e296e6ba598198325bb56bd709/transformed/jetified-firebase-appcheck-18.0.0/AndroidManifest.xml:26:17-120
+meta-data#com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckRegistrar
+ADDED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/7d7cf5e296e6ba598198325bb56bd709/transformed/jetified-firebase-appcheck-18.0.0/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/7d7cf5e296e6ba598198325bb56bd709/transformed/jetified-firebase-appcheck-18.0.0/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/7d7cf5e296e6ba598198325bb56bd709/transformed/jetified-firebase-appcheck-18.0.0/AndroidManifest.xml:29:17-117
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/0f9f2689c3090742c504f40984d58f2d/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/0f9f2689c3090742c504f40984d58f2d/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/0f9f2689c3090742c504f40984d58f2d/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:13:17-116
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/74b3c4bcae1ad297cc60711dc85fb701/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/74b3c4bcae1ad297cc60711dc85fb701/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/74b3c4bcae1ad297cc60711dc85fb701/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:36:17-109
+service#androidx.credentials.playservices.CredentialProviderMetadataHolder
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/cesarcunyarache/.gradle/caches/transforms-3/fc602bcae9a1b40eeedd4f8a68a4e50b/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:24:9-32:19
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/cesarcunyarache/.gradle/caches/transforms-3/fc602bcae9a1b40eeedd4f8a68a4e50b/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:26:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/cesarcunyarache/.gradle/caches/transforms-3/fc602bcae9a1b40eeedd4f8a68a4e50b/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/cesarcunyarache/.gradle/caches/transforms-3/fc602bcae9a1b40eeedd4f8a68a4e50b/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:28:13-60
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/cesarcunyarache/.gradle/caches/transforms-3/fc602bcae9a1b40eeedd4f8a68a4e50b/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:25:13-94
+meta-data#androidx.credentials.CREDENTIAL_PROVIDER_KEY
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/cesarcunyarache/.gradle/caches/transforms-3/fc602bcae9a1b40eeedd4f8a68a4e50b/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:29:13-31:104
+	android:value
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/cesarcunyarache/.gradle/caches/transforms-3/fc602bcae9a1b40eeedd4f8a68a4e50b/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:31:17-101
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/cesarcunyarache/.gradle/caches/transforms-3/fc602bcae9a1b40eeedd4f8a68a4e50b/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:30:17-76
+activity#androidx.credentials.playservices.HiddenActivity
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/cesarcunyarache/.gradle/caches/transforms-3/fc602bcae9a1b40eeedd4f8a68a4e50b/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:34:9-41:20
+	android:fitsSystemWindows
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/cesarcunyarache/.gradle/caches/transforms-3/fc602bcae9a1b40eeedd4f8a68a4e50b/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:39:13-45
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/cesarcunyarache/.gradle/caches/transforms-3/fc602bcae9a1b40eeedd4f8a68a4e50b/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/cesarcunyarache/.gradle/caches/transforms-3/fc602bcae9a1b40eeedd4f8a68a4e50b/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:38:13-37
+	android:configChanges
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/cesarcunyarache/.gradle/caches/transforms-3/fc602bcae9a1b40eeedd4f8a68a4e50b/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:36:13-87
+	android:theme
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/cesarcunyarache/.gradle/caches/transforms-3/fc602bcae9a1b40eeedd4f8a68a4e50b/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:40:13-48
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/cesarcunyarache/.gradle/caches/transforms-3/fc602bcae9a1b40eeedd4f8a68a4e50b/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:35:13-76
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/54a9379192482871109a0bf57e4cf0da/transformed/jetified-play-services-auth-20.7.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/54a9379192482871109a0bf57e4cf0da/transformed/jetified-play-services-auth-20.7.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/54a9379192482871109a0bf57e4cf0da/transformed/jetified-play-services-auth-20.7.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/54a9379192482871109a0bf57e4cf0da/transformed/jetified-play-services-auth-20.7.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/54a9379192482871109a0bf57e4cf0da/transformed/jetified-play-services-auth-20.7.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/54a9379192482871109a0bf57e4cf0da/transformed/jetified-play-services-auth-20.7.0/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/54a9379192482871109a0bf57e4cf0da/transformed/jetified-play-services-auth-20.7.0/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/54a9379192482871109a0bf57e4cf0da/transformed/jetified-play-services-auth-20.7.0/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/54a9379192482871109a0bf57e4cf0da/transformed/jetified-play-services-auth-20.7.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/54a9379192482871109a0bf57e4cf0da/transformed/jetified-play-services-auth-20.7.0/AndroidManifest.xml:34:13-89
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/63945413baf52f56f68b67d93e011441/transformed/jetified-recaptcha-18.4.0/AndroidManifest.xml:9:5-98
+	android:name
+		ADDED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/63945413baf52f56f68b67d93e011441/transformed/jetified-recaptcha-18.4.0/AndroidManifest.xml:9:22-95
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/998fbe6ed0cbcf2b0c6c0c26fb9c0d88/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/998fbe6ed0cbcf2b0c6c0c26fb9c0d88/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/998fbe6ed0cbcf2b0c6c0c26fb9c0d88/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/cesarcunyarache/.gradle/caches/transforms-3/998fbe6ed0cbcf2b0c6c0c26fb9c0d88/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:19-85
